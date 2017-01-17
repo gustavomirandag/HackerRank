@@ -148,6 +148,7 @@
   <ItemGroup>
     <ClCompile Include="Algorithms.cpp" />
     <ClCompile Include="Dynamic Programming\CoinChange.cpp" />
+    <ClCompile Include="Dynamic Programming\Knapsack.cpp" />
     <ClCompile Include="Dynamic Programming\MandragoraForest.cpp" />
     <ClCompile Include="Dynamic Programming\TwoRobots.cpp" />
     <ClCompile Include="GraphTheory\SnakesAndLadders.cpp" />
@@ -160,6 +161,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Dynamic Programming\CoinChange.h" />
+    <ClInclude Include="Dynamic Programming\Knapsack.h" />
     <ClInclude Include="Dynamic Programming\MandragoraForest.h" />
     <ClInclude Include="Dynamic Programming\TwoRobots.h" />
     <ClInclude Include="GraphTheory\SnakesAndLadders.h" />

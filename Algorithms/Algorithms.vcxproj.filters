@@ -48,6 +48,9 @@
     <ClCompile Include="Strings\RichieRich.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Dynamic Programming\Knapsack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Dynamic Programming\CoinChange.h">
@@ -78,6 +81,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Strings\RichieRich.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Dynamic Programming\Knapsack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
