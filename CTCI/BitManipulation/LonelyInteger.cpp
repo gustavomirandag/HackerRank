@@ -47,7 +47,7 @@ int lonely_integer(vector < int > a) {
 	return result;
 }
 
-int main() {
+int mainLonelyInteger() {
 	int n;
 	cin >> n;
 	vector<int> a(n);
