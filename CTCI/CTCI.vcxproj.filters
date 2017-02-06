@@ -63,5 +63,8 @@
     <ClCompile Include="BinarySearch\IceCreamParlor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DepthFirstSearch\ConnectedCellInAGrid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

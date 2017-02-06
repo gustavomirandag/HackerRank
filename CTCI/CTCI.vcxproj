@@ -149,6 +149,7 @@
     <ClCompile Include="Arrays\LeftRotation.cpp" />
     <ClCompile Include="BinarySearch\IceCreamParlor.cpp" />
     <ClCompile Include="BitManipulation\LonelyInteger.cpp" />
+    <ClCompile Include="DepthFirstSearch\ConnectedCellInAGrid.cpp" />
     <ClCompile Include="HashTables\RansomNote.cpp" />
     <ClCompile Include="Heaps\FindTheRunningMedian.cpp" />
     <ClCompile Include="LinkedLists\DetectCycle.cpp" />
