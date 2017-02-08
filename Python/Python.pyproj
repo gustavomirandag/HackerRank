@@ -25,6 +25,9 @@
     <Compile Include="Introduction\ArithmeticOperators.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Introduction\Division.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Introduction\PythonIf-Else.py" />
   </ItemGroup>
   <ItemGroup>
