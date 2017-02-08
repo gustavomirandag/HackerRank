@@ -32,6 +32,9 @@
     <Compile Include="Loops.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="WriteAFunction.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Introduction\" />
