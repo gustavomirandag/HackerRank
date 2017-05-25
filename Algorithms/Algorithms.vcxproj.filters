@@ -51,6 +51,12 @@
     <ClCompile Include="Dynamic Programming\Knapsack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Dynamic Programming\Equal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphTheory\FloydCityOfBlindingLights.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Dynamic Programming\CoinChange.h">
@@ -84,6 +90,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Dynamic Programming\Knapsack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphTheory\FloydCityOfBlindingLights.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

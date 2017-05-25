@@ -148,9 +148,11 @@
   <ItemGroup>
     <ClCompile Include="Algorithms.cpp" />
     <ClCompile Include="Dynamic Programming\CoinChange.cpp" />
+    <ClCompile Include="Dynamic Programming\Equal.cpp" />
     <ClCompile Include="Dynamic Programming\Knapsack.cpp" />
     <ClCompile Include="Dynamic Programming\MandragoraForest.cpp" />
     <ClCompile Include="Dynamic Programming\TwoRobots.cpp" />
+    <ClCompile Include="GraphTheory\FloydCityOfBlindingLights.cpp" />
     <ClCompile Include="GraphTheory\SnakesAndLadders.cpp" />
     <ClCompile Include="Implementation\AngryProfessor.cpp" />
     <ClCompile Include="Implementation\EqualStacks.cpp" />
@@ -164,6 +166,7 @@
     <ClInclude Include="Dynamic Programming\Knapsack.h" />
     <ClInclude Include="Dynamic Programming\MandragoraForest.h" />
     <ClInclude Include="Dynamic Programming\TwoRobots.h" />
+    <ClInclude Include="GraphTheory\FloydCityOfBlindingLights.h" />
     <ClInclude Include="GraphTheory\SnakesAndLadders.h" />
     <ClInclude Include="Implementation\AngryProfessor.h" />
     <ClInclude Include="Implementation\EqualStacks.h" />
